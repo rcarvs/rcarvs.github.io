@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! My name is Renan and this is my personal blog. In this blog I will write everthing in english to force myself to improve my english skills. I love computer science and I have used PHP, Java, Angular, C, Javascript, Golang, MongoDb and Postgres for professional proposes. I’m a ZPCE (Zend PHP Certified Engineer) too and I love PHP a little bit more than anothers languages, but I think that the language is just a tool to solve problems in projects. Computer programming is what I make in my free time (and in my work time) and I love so much that have people with pay me for make that. :)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+You can find me in GitHub:
+[rcarvs](https://github.com/rcarvs)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
